@@ -1,4 +1,4 @@
-# TypeScript Concepts 2023!!
+# TypeScript Concepts 2023!
 
 ## What is TypeScript?
 TypeScript is a language that is built on top of JavaScript with the purpose of helping us avoid the common pitfalls and bugs that arise in JavaScript. And the way that it does that is by adding types.
