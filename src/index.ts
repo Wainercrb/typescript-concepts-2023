@@ -1,7 +1,4 @@
-
-function abc(): void {
-    console.log("ABC")
-}
+import primitiveTypes from './primitiveTypes'
 
 
-abc()
+primitiveTypes()
